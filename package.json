@@ -1,0 +1,14 @@
+{
+  "name": "mod-bot",
+  "version": "1.0.0",
+  "description": "A simple discord moderation bot that notifies every user in the server when a new member joins, scans every message sent in the server, and can send messages of it's own. It has capabilities to delete messages or ban users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brianna Hoang",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
